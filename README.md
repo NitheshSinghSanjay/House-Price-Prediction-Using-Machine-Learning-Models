@@ -12,10 +12,10 @@ In order to select a good prediction model, all the regression models are explor
 
 ## Results
 
-![fitness comparison](https://raw.githubusercontent.com/NitheshSinghSanjay/House-Price-Prediction-Using-Machine-Learning-Models/master/bgraph.PNG?token=Alj9FiAYqtdvtqNUXC1W3WsGWoJe145iks5cmwEAwA%3D%3D)
+![fitness comparison](bgraph.PNG)
 
 The above bar graph shows comparison of fitness scores of custom models and top 3 models from kaggle.
 
-![Model comparison](https://github.com/NitheshSinghSanjay/House-Price-Prediction-Using-Machine-Learning-Models/blob/master/model_comparison.PNG?raw=true)
+![Model comparison](model_comparison.PNG)
 
 The above scatter plot shows predicted house prices of custom models, Mayumi’s, Zubair’s, and Boris’s models. The custom Random forest and MLR shows similar trends on the graph. The highest expense for a home predicted in MLR is $700,000, while Random forest predicted the highest expense for a home to be $620,000 and Polynomial predicts $1,000,000. Highest expense predicted in Mayumi’s model is approximately $640,000, while Boris’s model predicted highest expense of the home to be nearly $1,400,000. From the graph, we can notice that custom  Random forest model and Zubair’s random forest shows the similar trends and highest expense predicted in Zubair’s model for a home to be $540000.
